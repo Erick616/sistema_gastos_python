@@ -1,0 +1,16 @@
+[
+    {
+        "tipo": "ingreso",
+        "descripcion": "sueldo",
+        "categoria": "Ingreso",
+        "monto": 1500.0,
+        "fecha": "22/07/2026 17:13"
+    },
+    {
+        "tipo": "gasto",
+        "descripcion": "Comida",
+        "categoria": "Alimentos",
+        "monto": 25.0,
+        "fecha": "22/07/2026 17:14"
+    }
+]
